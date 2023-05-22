@@ -1,5 +1,5 @@
+package standardprocedureofjava.chapter02.variable;
 class VarEx1 {
-
     public static void main(String[] args){
         int year = 0;
         int age = 14;

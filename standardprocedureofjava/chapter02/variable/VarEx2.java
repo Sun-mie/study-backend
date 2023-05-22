@@ -1,3 +1,5 @@
+package standardprocedureofjava.chapter02.variable;
+
 class VarEx2 {
     public static void main(String[] args) {
         int x = 10, y = 20;
