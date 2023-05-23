@@ -10,8 +10,6 @@ class VarEx3 {
         long big = 100_000_000_000L;
         long hex = 0xFFFF_FFFF_FFFF_FFFFL;
 
-        System.out.println(big);
-
         int i = 'A';
         long l = 123;
         double d = 3.14f;
@@ -21,6 +19,17 @@ class VarEx3 {
 
         byte b = 65;
         short s = 0x1234;
+
+        char ch = ' ';
+        //char ch2 = ''; //java: empty character literal
+        String name = "";
+
+        System.out.println(ch);
+        System.out.println(name);
+
+        String name2 = new String("Java");
+
+
 
 
     }
