@@ -1,6 +1,6 @@
 package standardprocedureofjava.chapter03.operator;
 
-public class OperatorEx2 {
+public class OperatorEx02 {
     public static void main(String[] args) {
         int i=5, j=0;
         j = i++;
