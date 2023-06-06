@@ -1,6 +1,6 @@
 package standardprocedureofjava.chapter03.operator;
 
-public class Operator27 {
+public class OperatorEx27 {
     public static void main(String[] args) {
         boolean b = true;
         char ch = 'C';
