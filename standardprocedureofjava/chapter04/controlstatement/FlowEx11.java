@@ -34,5 +34,6 @@ public class FlowEx11 {
             default:
                 System.out.println("유효하지 않은 주민등록번호입니다.");
         }
+
     }
 }
