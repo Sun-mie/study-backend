@@ -1,6 +1,6 @@
 package standardprocedureofjava.chapter04.controlstatement;
 
-public class FlowEx1 {
+public class FlowEx01 {
     public static void main(String[] args) {
         int x = 0;
 
