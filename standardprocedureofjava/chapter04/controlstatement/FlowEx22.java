@@ -13,7 +13,9 @@ public class FlowEx22 {
             System.out.printf("%d ", tmp);
             sum += tmp;
         }
+
         System.out.println();
         System.out.println("sum = " + sum);
+
     }
 }
