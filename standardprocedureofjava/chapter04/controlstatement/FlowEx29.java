@@ -15,7 +15,6 @@ public class FlowEx29 {
             } while ((tmp /= 10) != 0);
 
             System.out.println();
-        }
-        ;
+        };
     }
 }
