@@ -1,6 +1,6 @@
 package standardprocedureofjava.chapter05.array;
 
-public class ArrayEx3 {
+public class ArrayEx03 {
     public static void main(String[] args) {
         int[] arr = new int[5];
 
