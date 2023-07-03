@@ -1,7 +1,5 @@
 package standardprocedureofjava.chapter06.objectOrientedProgrammingI;
 
-import org.w3c.dom.ls.LSOutput;
-
 public class MyMathTest {
     public static void main(String[] args) {
         MyMath mm = new MyMath();
