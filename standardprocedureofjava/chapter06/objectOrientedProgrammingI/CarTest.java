@@ -26,4 +26,3 @@ public class CarTest {
         System.out.println("c2의 color = " + c2.color + ", gearType = " + c2.gearType + ", door = " + c2.door);
     }
 }
-0
