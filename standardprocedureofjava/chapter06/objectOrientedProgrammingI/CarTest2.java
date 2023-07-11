@@ -1,18 +1,18 @@
 package standardprocedureofjava.chapter06.objectOrientedProgrammingI;
 
-class Vehicle {
+class Car2 {
     String color;
     String gearType;
     int door;
 
-    Vehicle() {
+    Car2() {
         this("white", "auto", 4);
     }
-    Vehicle(String color) {
+    Car2(String color) {
         this(color, "auto", 4);
     }
 
-    Vehicle(String color, String gearType, int door){
+    Car2(String color, String gearType, int door){
         this.color = color;
         this.gearType = gearType;
         this.door = door;
@@ -20,10 +20,10 @@ class Vehicle {
 }
 public class CarTest2 {
     public static void main(String[] args) {
-        Vehicle v1 = new Vehicle();
-        Vehicle v2 = new Vehicle("blue");
+        Car2 c1 = new Car2();
+        Car2 c2 = new Car2("blue");
 
-        System.out.println("v1의 color = " + v1.color + ", gearType = " + v1.gearType + ", door = " + v1.door);
-        System.out.println("v2의 color = " + v2.color + ", gearType = " + v2.gearType + ", door = " + v2.door);
+        System.out.println("c1의 color = " + c1.color + ", gearType = " + c1.gearType + ", door = " + c1.door);
+        System.out.println("c2의 color = " + c2.color + ", gearType = " + c2.gearType + ", door = " + c2.door);
     }
 }
