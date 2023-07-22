@@ -1,4 +1,4 @@
-package standardprocedureofjava.chapter06.objectOrientedProgrammingI;
+package standardprocedureofjava.chapter07.objectOrientedProgrammingll;
 
 public class DrawShape {
     public static void main(String[] args) {
