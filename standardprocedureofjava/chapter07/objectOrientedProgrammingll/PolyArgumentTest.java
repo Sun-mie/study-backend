@@ -58,4 +58,3 @@ public class PolyArgumentTest {
         System.out.println("현재 보너스점수는 " + b.bonusPoint + "점입니다.");
     }
 }
-
